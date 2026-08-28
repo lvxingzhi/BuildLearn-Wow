@@ -1,768 +1,714 @@
 {
-  "498": {
-    "name": "圣佑术",
-    "icon": "spell_holy_divineprotection",
-    "desc": "使你受到的所有伤害降低20%，持续8秒。能够在昏迷中使用。",
-    "cost": "0.7% 法力值",
+  "100780": {
+    "name": "猛虎掌",
+    "icon": "ability_monk_tigerpalm",
+    "desc": "用手掌进行攻击，造成([90% of Attack Power])点物理伤害。 [ 酒仙 : 使所有酒类技能剩余的冷却时间缩短1秒。 / 踏风 : 产生0点真气。 ]",
+    "cost": "50能量",
     "range": "",
     "cooldown": "",
     "cast_time": "瞬发"
   },
-  "633": {
-    "name": "圣疗术",
-    "icon": "spell_holy_layonhands",
-    "desc": "治疗一个友方目标，数值相当于你的最大生命值的100%。 无法对有自律效果的目标使用。造成自律效果，持续30秒。",
-    "cost": "",
-    "range": "40 码范围",
-    "cooldown": "",
-    "cast_time": "瞬发"
-  },
-  "642": {
-    "name": "圣盾术",
-    "icon": "spell_holy_divineshield",
-    "desc": "你对所有的伤害、有害效果、击退和强制移动效果免疫，持续8秒。 带有自律效果时无法使用。造成自律效果，持续30秒。",
+  "100784": {
+    "name": "幻灭踢",
+    "icon": "ability_monk_roundhousekick",
+    "desc": "踏风 踢出一道真气能量冲击波，造成[([84.7% of Attack Power]) * [(攻击强度 * 0.98)][((攻击强度 + [Offhand Attack Power]) * 2 / 3)] -- 2H, DW / 攻击强度]点物理伤害。 织雾 踢出一道真气能量冲击波，造成([84.7% of Attack Power])点物理伤害。 酒仙 踢出一道真气能量冲击波，造成([84.7% of Attack Power])点物理伤害。",
     "cost": "",
     "range": "",
     "cooldown": "",
     "cast_time": "瞬发"
   },
-  "853": {
-    "name": "制裁之锤",
-    "icon": "spell_holy_sealofmight",
-    "desc": "使目标昏迷6秒。",
-    "cost": "0.7% 法力值",
-    "range": "10 码范围",
+  "101546": {
+    "name": "神鹤引项踢",
+    "icon": "ability_monk_cranekick_new",
+    "desc": "踏风 在空中施展回旋踢，在1.5秒内对8码范围内的所有敌人造成[4 * ([10% of Attack Power]) * [(攻击强度 * 0.98)][((攻击强度 + [Offhand Attack Power]) * 2 / 3)] -- 2H, DW / 攻击强度]点物理伤害。目标数量超过5个后造成的伤害降低。 酒仙, 织雾 在空中施展回旋踢，在1.5秒内对8码范围内的所有敌人造成[4 * ([10% of Attack Power])]点物理伤害。目标数量超过5个后造成的伤害降低。",
+    "cost": "1% 法力值",
+    "range": "8码范围",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "101643": {
+    "name": "魂体双分",
+    "icon": "monk_ability_transcendence",
+    "desc": "将你的肉体和灵魂分离，并将灵魂留在原地，持续15分钟。使用魂体双分：转移，让你的肉体和你的灵魂交换位置。",
+    "cost": "",
+    "range": "",
     "cooldown": "",
     "cast_time": "瞬发"
   },
-  "1022": {
-    "name": "保护祝福",
-    "icon": "spell_holy_sealofprotection",
-    "desc": "神圣, 惩戒 祝福一名小队或团队成员，使其免疫所有物理伤害和有害效果，持续10秒。 无法对有自律效果的目标使用。造成自律，持续30秒。 防护 祝福一名小队或团队成员，使其免疫所有物理伤害和有害效果，持续10秒。 无法对有自律效果的目标使用。造成自律，持续30秒。 与破咒祝福共享冷却时间。",
-    "cost": "3% 法力值",
+  "107428": {
+    "name": "旭日东升踢",
+    "icon": "ability_monk_risingsunkick",
+    "desc": "踏风 向上猛踢，造成[([143.8% of Attack Power]) * [(攻击强度 * 0.98)][((攻击强度 + [Offhand Attack Power]) * 2 / 3)] -- 2H, DW / 攻击强度]点物理伤害 。 酒仙 向上猛踢，造成([143.8% of Attack Power])点物理伤害。 织雾 向上猛踢，造成([143.8% of Attack Power])点物理伤害。",
+    "cost": "2.5% 法力值",
+    "range": "",
+    "cooldown": "",
+    "cast_time": "瞬发"
+  },
+  "109132": {
+    "name": "滚地翻",
+    "icon": "ability_monk_roll",
+    "desc": "进行短距离翻滚。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": "瞬发"
+  },
+  "115078": {
+    "name": "分筋错骨",
+    "icon": "ability_monk_paralysis",
+    "desc": "使目标瘫痪，持续1分钟。只能对一个目标使用。伤害可能取消该效果。",
+    "cost": "20能量",
+    "range": "20 码范围",
+    "cooldown": "",
+    "cast_time": "瞬发"
+  },
+  "115151": {
+    "name": "复苏之雾",
+    "icon": "ability_monk_renewingmists",
+    "desc": "你用疗伤的迷雾环绕目标，在20秒内为其恢复([196.65% of Spell Power])点生命值。 一旦复苏之雾产生过量治疗，就会飘向20码内另一名受伤的盟友。",
+    "cost": "1.8% 法力值",
     "range": "40 码范围",
     "cooldown": "",
     "cast_time": "瞬发"
   },
-  "1044": {
-    "name": "自由祝福",
-    "icon": "spell_holy_sealofvalor",
-    "desc": "祝福一名小队或团队成员，使其免疫任何移动限制效果， [ 无拘自由 : 并使其移动速度提高30%， ]持续8秒。",
-    "cost": "1.4% 法力值",
+  "115173": {
+    "name": "动如脱兔",
+    "icon": "ability_monk_quipunch",
+    "desc": "使滚地翻的冷却时间缩短5秒，使用次数上限提高1次。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "115175": {
+    "name": "抚慰之雾",
+    "icon": "ability_monk_soothingmists",
+    "desc": "在8秒内为目标恢复([1680% of Spell Power])点生命值。引导时，可以在目标身上瞬发氤氲之雾 [ 升腾之雾 : 、升腾之雾 ] [ 禅意波 : 、禅意波 ]和活血术。",
+    "cost": "",
     "range": "40 码范围",
     "cooldown": "",
     "cast_time": "瞬发"
   },
-  "4987": {
-    "name": "清洁术",
-    "icon": "spell_holy_purify",
-    "desc": "净化一个友方目标，移除所有 [ 强化清洁术 : 中毒、疾病和 ]魔法效果。",
+  "115203": {
+    "name": "壮胆酒",
+    "icon": "ability_monk_fortifyingale_new",
+    "desc": "让你的皮肤化为坚石，持续15秒 [ 壮胆酒：决绝 : ，使醉拳的效果提高15% ] [，并使醉拳的化解量提高20%]。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": "瞬发"
+  },
+  "115294": {
+    "name": "法力茶",
+    "icon": "monk_ability_cherrymanatea",
+    "desc": "每0.5秒消耗一层法力茶，恢复 6480 点法力值。 可以在移动时施放，但引导时移动速度降低40%。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "115310": {
+    "name": "还魂术",
+    "icon": "spell_monk_revival",
+    "desc": "为40码范围内所有小队或团队成员恢复([5988.28% of Spell Power])点生命值，并为其移除3个有害的魔法效果，以及所有中毒和疾病效果。 目标超过5个时治疗量降低。",
+    "cost": "4.374% 法力值",
+    "range": "40码范围",
+    "cooldown": "",
+    "cast_time": "瞬发"
+  },
+  "115450": {
+    "name": "清创生血",
+    "icon": "ability_rogue_imrovedrecuperate",
+    "desc": "移除目标身上所有魔法 效果。",
     "cost": "1.3% 法力值",
     "range": "40 码范围",
     "cooldown": "",
     "cast_time": "瞬发"
   },
-  "6940": {
-    "name": "牺牲祝福",
-    "icon": "spell_holy_sealofsacrifice",
-    "desc": "祝福一名小队或团队成员，使其所受伤害降低30%，降低伤害的100%由你来承担。 持续12秒，或直到转移的伤害使你的生命值降至20%以下为止。",
-    "cost": "1.4% 法力值",
-    "range": "40 码范围",
-    "cooldown": "",
-    "cast_time": "瞬发"
-  },
-  "19750": {
-    "name": "圣光闪现",
-    "icon": "spell_holy_flashheal",
-    "desc": "快速为一名友方目标恢复[[([315.6% of Spell Power])]][([315.6% of Spell Power])]点生命值。 [ 道标照耀 : 产生1点神圣能量。 ]",
-    "cost": "10% 法力值",
-    "range": "40 码范围",
+  "115869": {
+    "name": "法力茶",
+    "icon": "monk_ability_cherrymanatea",
+    "desc": "每消耗0点法力值，你将获得一层法力茶效果。除此之外，你还有一定几率额外获得一层法力茶效果，该几率相当于你的爆击几率。 法力茶 ： 每0.5秒消耗一层法力茶，恢复 6480 点法力值。 可以在移动时施放，但引导时移动速度降低40%。",
+    "cost": "1% 法力值",
+    "range": "",
     "cooldown": "",
     "cast_time": ""
   },
-  "20473": {
-    "name": "神圣震击",
-    "icon": "spell_holy_searinglight",
-    "desc": "在目标身上引发圣光爆发，对一名敌人造成([216% of Spell Power])点神圣伤害，或为一个盟友恢复([1117% of Spell Power])点生命值。 [ 神圣震击 : 额外有10%的几率造成爆击。 ] 产生1层神圣能量。",
-    "cost": "2% 法力值",
-    "range": "40 码范围",
-    "cooldown": "",
-    "cast_time": "瞬发"
-  },
-  "31821": {
-    "name": "光环掌握",
-    "icon": "spell_holy_auramastery",
-    "desc": "强化你选择的光环，持续8秒。 虔诚光环 ：伤害减免提高至12%。 十字军光环 ：骑乘速度加成提高至60%。 专注光环 ：受影响的盟友免疫打断和沉默效果。",
+  "116680": {
+    "name": "雷光聚神茶",
+    "icon": "ability_monk_thunderfocustea",
+    "desc": "获得一股能量，使你接下来施放的 一个法术 得到增强： 氤氲之雾 ：变为瞬发并立即恢复([748.8% of Spell Power])点生命值。 复苏之雾 ：持续时间延长10秒。 旭日东升踢 ：冷却时间缩短9秒。 [ 雷鸣聚神茶 : 碎玉闪电 ：立即击退目标。 滚地翻 ：恢复一层充能并为你恢复([240% of Attack Power])点生命值。 ]",
     "cost": "",
     "range": "",
     "cooldown": "",
     "cast_time": "瞬发"
   },
-  "31884": {
-    "name": "复仇之怒",
-    "icon": "spell_holy_avenginewrath",
-    "desc": "神圣, 防护 召唤圣光之力，成为惩戒的化身，[审判额外产生1层神圣能量，][每花费一层神圣能量，你就会使圣光爆发，对附近的敌人造成([13.5% of Attack Power])点伤害，]你的伤害、治疗效果和爆击几率提高20%，持续20秒 / 神圣愤怒 : 24秒 / 正义召唤 : 15秒 。 惩戒 召唤圣光之力，成为惩戒的化身，[审判额外产生4层神圣能量，][每花费一层神圣能量，你就会使圣光爆发，对附近的敌人造成([13.5% of Attack Power])点伤害，]你的伤害、治疗效果和爆击几率提高15% ，持续20秒。",
+  "116841": {
+    "name": "迅如猛虎",
+    "icon": "ability_monk_tigerslust",
+    "desc": "使一名友方目标的移动速度提高70%，持续6秒，并解除所有定身和诱捕效果。",
     "cost": "",
-    "range": "",
+    "range": "20 码范围",
     "cooldown": "",
     "cast_time": "瞬发"
   },
-  "53376": {
-    "name": "圣洁怒火",
-    "icon": "ability_paladin_judgementsofthejust",
-    "desc": "神圣 ( 神圣圣骑士 ) 复仇之怒和复仇十字军的持续时间延长50%。 [ 复仇之怒和复仇十字军的持续时间延长25%。 ]",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "53563": {
-    "name": "圣光道标",
-    "icon": "ability_paladin_beaconoflight",
-    "desc": "用神圣能量包裹一名队友，你对其他小队或团队成员的直接治疗也会为这名盟友恢复生命值，相当于初始治疗量的10%。",
-    "cost": "0.5% 法力值",
-    "range": "60 码范围",
-    "cooldown": "",
-    "cast_time": "瞬发"
-  },
-  "53576": {
-    "name": "圣光灌注",
-    "icon": "ability_paladin_infusionoflight",
-    "desc": "你的神圣震击有10%几率强化你的下一个法术： 圣光闪现 ：治疗效果提高200%并变为瞬发。 审判 ：强效审判抵挡目标的伤害提高150%并额外产生1层神圣能量。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": "瞬发"
-  },
-  "82326": {
-    "name": "圣光术",
-    "icon": "spell_holy_surgeoflight",
-    "desc": "强大但消耗很高的法术，为一个友方目标恢复([3250% of Spell Power])点生命值。 [ 道标照耀 : 产生1层神圣能量。 ]",
-    "cost": "7% 法力值",
-    "range": "40 码范围",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "85222": {
-    "name": "黎明之光",
-    "icon": "spell_paladin_lightofdawn",
-    "desc": "释放神圣能量，为周围40码范围内最多5个受伤的盟友恢复([506.736% of Spell Power])点生命值。",
-    "cost": "0.6% 法力值",
-    "range": "40码范围",
-    "cooldown": "",
-    "cast_time": "瞬发"
-  },
-  "114154": {
-    "name": "不败之魂",
-    "icon": "spell_holy_holyguidance",
-    "desc": "使你的圣盾术、 [ 复仇之盾 : 复仇之盾、 ] [ 炽热防御者 / 圣佑术 ]和圣疗术的冷却时间缩短30%。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "115750": {
-    "name": "盲目之光",
-    "icon": "ability_paladin_blindinglight",
-    "desc": "向四面八方发出耀眼的光芒，使10码范围内的敌人暂时失明，并使其迷惑地游荡，持续6秒。伤害可能取消该效果。",
-    "cost": "1.2% 法力值",
-    "range": "10码范围",
-    "cooldown": "",
-    "cast_time": "瞬发"
-  },
-  "156322": {
-    "name": "永恒之火",
-    "icon": "inv_torch_thrown",
-    "desc": "神圣 为一名盟友恢复([378% of Spell Power])点生命值，并在16秒内额外恢复([109.44% of Spell Power])点。 对自己施放时治疗效果提高25%。 惩戒 为一名盟友恢复([378% of Spell Power])点生命值，并在16秒内额外恢复([109.44% of Spell Power])点。 对自己施放时治疗效果提高35%。",
-    "cost": "0.6% 法力值",
-    "range": "40 码范围",
-    "cooldown": "",
-    "cast_time": "瞬发"
-  },
-  "156910": {
-    "name": "信仰道标",
-    "icon": "ability_paladin_beaconsoflight",
-    "desc": "将另一个目标设成道标，效果形同圣光道标。你的治疗现在同时影响两个道标，但效果会降低30%。",
-    "cost": "0.5% 法力值",
-    "range": "60 码范围",
-    "cooldown": "",
-    "cast_time": "瞬发"
-  },
-  "190784": {
-    "name": "神圣马驹",
-    "icon": "ability_paladin_divinesteed",
-    "desc": "跃上战马，移动速度提高100%，持续 3秒 。可以在室内或战斗中使用。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": "瞬发"
-  },
-  "196926": {
-    "name": "十字军之力",
-    "icon": "ability_paladin_swiftretribution",
-    "desc": "神圣震击使审判的冷却时间缩短1.5秒，十字军打击使审判的冷却时间缩短1.5秒。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "197446": {
-    "name": "光明使者的道标",
-    "icon": "spell_paladin_clarityofpurpose",
-    "desc": "精通：光明使者现在将按照目标距离你或你的圣光道标中较近的一方的距离提高治疗量。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "199422": {
-    "name": "神圣仪式",
-    "icon": "inv_relics_libramoftruth",
-    "desc": "当你对盟友施放保护祝福或牺牲祝福时，同时使其获得([2000% of Spell Power])点治疗。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "204054": {
-    "name": "圣洁之地",
-    "icon": "ability_paladin_righteousvengeance",
-    "desc": "你的奉献的影响范围扩大15%，且会使范围内的敌人移动速度降低50%。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "223817": {
-    "name": "神圣意志",
-    "icon": "spell_holy_divinepurpose",
-    "desc": "消耗神圣能量的技能有15%的几率会使你的下一个消耗神圣能量的技能不消耗资源，并且伤害和治疗效果提高15%。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "230332": {
-    "name": "骑手",
-    "icon": "ability_paladin_divinesteed",
-    "desc": "神圣马驹现在可使用2次。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "231644": {
-    "name": "强效审判",
-    "icon": "spell_holy_righteousfury",
-    "desc": "审判将目标判定为失格者，抵挡其接下来造成的[(法术强度 * 483 / 100) * (1 + 全能)]点伤害。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "234299": {
-    "name": "制裁之拳",
-    "icon": "spell_holy_fistofjustice",
-    "desc": "制裁之锤的冷却时间缩短15秒。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "255647": {
-    "name": "圣光裁决者",
-    "icon": "ability_racial_orbitalstrike",
-    "desc": "召唤一道神圣能量从天而降，3秒后对周围10码范围内的敌人造成[攻击强度 * 4.2 * [Percent Damage] * (1 + 全能)]点神圣伤害。目标超过8个时伤害降低。",
+  "116844": {
+    "name": "平心之环",
+    "icon": "spell_monk_ringofpeace",
+    "desc": "在目标位置形成平心之环，持续5秒。进入环中的敌人将被推出环外。",
     "cost": "",
     "range": "40 码范围",
     "cooldown": "",
     "cast_time": "瞬发"
   },
-  "275773": {
-    "name": "审判",
-    "icon": "spell_holy_righteousfury",
-    "desc": "审判目标，造成([123.75% of Spell Power])点神圣伤害 [ 强效审判 : ，并抵挡目标造成的[(法术强度 * 483 / 100) * (1 + 全能)]点伤害 ]。 [ 审判 : 产生1层神圣能量。 ]",
-    "cost": "1.2% 法力值",
-    "range": "30 码范围",
+  "116849": {
+    "name": "作茧缚命",
+    "icon": "ability_monk_chicocoon",
+    "desc": "将目标包裹在真气形成的茧中，持续12秒，吸收[[Total Health] * 48 / 100 * (1 + 全能)]点伤害，并使其受到的所有持续治疗效果提高50%。",
+    "cost": "2.4% 法力值",
+    "range": "40 码范围",
     "cooldown": "",
     "cast_time": "瞬发"
   },
-  "305394": {
-    "name": "无拘自由",
-    "icon": "spell_holy_sealofvalor",
-    "desc": "自由祝福使移动速度提高30%，并使你在对一名友方目标施放自由祝福时获得自由祝福。",
+  "119381": {
+    "name": "扫堂腿",
+    "icon": "ability_monk_legsweep",
+    "desc": "击倒6码范围内的所有敌人，使其昏迷3秒。",
+    "cost": "",
+    "range": "6码范围",
+    "cooldown": "",
+    "cast_time": "瞬发"
+  },
+  "122280": {
+    "name": "金创药",
+    "icon": "ability_monk_jasmineforcetea",
+    "desc": "生命值降至40%时或获得过量金创药时消耗一瓶金创药，立即为你恢复15%的最大生命值。 你每30秒获得1瓶金创药，最多叠加2次。",
     "cost": "",
     "range": "",
     "cooldown": "",
     "cast_time": ""
   },
-  "360184": {
-    "name": "炫光之翼",
-    "icon": "inv_icon_wing02e",
-    "desc": "用一对炫光之翼来展示你的妖精之心！ 只有法夜盟约成员，或者在法夜盟约达到过名望等级80级的角色才能使用。",
+  "124682": {
+    "name": "氤氲之雾",
+    "icon": "spell_monk_envelopingmist",
+    "desc": "用治疗迷雾包裹目标，在6秒 / 缭绕之雾 : 7秒 / 青龙下凡 : 10秒 / 朱鹤下凡 : 10秒 内为其恢复([748.8% of Spell Power])点生命值，并使目标从你的其他法术获得的治疗效果提高 10 %。",
+    "cost": "3.6% 法力值",
+    "range": "40 码范围",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "173841": {
+    "name": "日升雾腾",
+    "icon": "achievement_zone_sholazar_10",
+    "desc": "复苏之雾现在可以使用3次，并使旭日东升踢的剩余冷却时间缩短1.0秒。 旭日东升踢现在使复苏之雾的剩余冷却时间缩短1.0秒。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "197895": {
+    "name": "雷光凝聚",
+    "icon": "spell_monk_nimblebrew",
+    "desc": "雷光聚神茶现在会强化你的下2个法术。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "202424": {
+    "name": "破蛹化蝶",
+    "icon": "ability_monk_domeofmist",
+    "desc": "作茧缚命的冷却时间缩短45秒。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "212051": {
+    "name": "死而复生",
+    "icon": "ability_monk_chiswirl",
+    "desc": "将所有死去的小队成员复活，为其恢复35%的最大生命值和法力值。无法在战斗中施放。",
+    "cost": "0.8% 法力值",
+    "range": "100 码范围",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "264348": {
+    "name": "猛虎扫尾",
+    "icon": "ability_monk_legsweep",
+    "desc": "使扫堂腿的范围提高4码。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "274586": {
+    "name": "振奋之雾",
+    "icon": "ability_monk_vivify",
+    "desc": "活血术为所有带有你的复苏之雾效果的盟友恢复([323.18% of Spell Power])点生命值。 神龙之赐对其主要目标的治疗效果提高500%。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "322109": {
+    "name": "轮回之触",
+    "icon": "ability_monk_touchofdeath",
+    "desc": "你看破敌方目标的死穴，立即对 [ 强化轮回之触 : 生命值比你低的生物造成相当于你的最大生命值100%的伤害。 / 目标造成相当于你的最大生命值100%的伤害。 只可以对生命值比你低的敌人使用] [ 对玩家或者生命值低于15%的强大生物会造成相当于你最大生命值35%的伤害。 / 。 ] [ 轮回之触 : 减少醉拳延缓的伤害，数值相当于造成的伤害的200%。 ] [ 生成3个真气珠，你走过真气珠时会获得1点真气。 ] [ 武僧的物理伤害提高15%，持续10秒。 ]",
     "cost": "",
     "range": "",
     "cooldown": "",
     "cast_time": "瞬发"
   },
-  "375576": {
-    "name": "圣洁鸣钟",
-    "icon": "inv_ability_paladin_divinetoll",
-    "desc": "惩戒 立即对30码范围内最多5个目标施放审判。 圣洁鸣钟的审判造成的伤害提高50%。 神圣, 防护 立即对30码范围内最多5个目标施放神圣震击、复仇者之盾或审判。",
+  "325197": {
+    "name": "朱鹤下凡",
+    "icon": "inv_pet_cranegod",
+    "desc": "召唤赤精雕像，持续 25秒 ，你使用幻灭踢、旭日东升踢或神鹤引项踢时会踢出3道迷雾之风，为最多2名盟友恢复[([0.1% of Spell Power]) * 50 / 100]点生命值。 赤精的气息会让你免疫移动限制效果，使氤氲之雾成为瞬发，并使氤氲之雾的法力值消耗降低20%。",
+    "cost": "5% 法力值",
+    "range": "40 码范围",
+    "cooldown": "",
+    "cast_time": "瞬发"
+  },
+  "343655": {
+    "name": "天神融合",
+    "icon": "ability_monk_jadeserpentbreath",
+    "desc": "激活后，玉珑和赤精会对40码内的5名目标施加真气之茧效果，吸收[[Total Health] * 24 / 100 * (1 + 全能)]点伤害，持续10秒。 赤精在召唤时获得4层禅院教诲。 玉珑会降低氤氲之雾30%的施法速度。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "344359": {
+    "name": "止戈古训",
+    "icon": "ability_monk_dpsstance",
+    "desc": "使分筋错骨的冷却时间缩短15秒，扫堂腿的冷却时间缩短10秒。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "388031": {
+    "name": "翡翠羁绊",
+    "icon": "inv_inscription_deck_jadeserpent",
+    "desc": "真气之茧效果结束或被消耗时还会施加持续4秒的氤氲之雾，赤精的迷雾之风的治疗效果提高20%，玉珑的抚慰之息的治疗效果提高500%。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "388218": {
+    "name": "静心凝雾",
+    "icon": "ability_monk_healthsphere",
+    "desc": "作茧缚命的吸收量提高80%。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "388491": {
+    "name": "秘术传功",
+    "icon": "ability_monk_chibrew",
+    "desc": "使用雷光聚神茶后，你的下一个法术会使一项属性提高4%。同一时间内只能激活一种属性提升： 氤氲之雾 ：爆击 复苏之雾 ：急速 旭日东升踢 ：全能",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "388548": {
+    "name": "生命之雾",
+    "icon": "inv_shoulder__inv_leather_raidmonkmythic_s_01",
+    "desc": "作茧缚命现在会对目标施放复苏之雾和氤氲之雾。",
+    "cost": "",
+    "range": "100 码范围",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "388664": {
+    "name": "平心静气",
+    "icon": "inv_misc_orb_01",
+    "desc": "受到的所有伤害降低3%。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "388674": {
+    "name": "雪怒之勇",
+    "icon": "ability_mount_pinktiger",
+    "desc": "造成的所有伤害提高2%。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "388681": {
+    "name": "飘忽迷雾",
+    "icon": "ability_monk_soothingmists",
+    "desc": "引导抚慰之雾时，你和目标受到的所有伤害降低6%。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "388779": {
+    "name": "仙鹤之道",
+    "icon": "monk_stance_redcrane",
+    "desc": "猛虎掌可以攻击两次，幻灭踢会以20%的效果额外攻击2个目标，神鹤引项踢会为附近的1个盟友恢复生命值，治疗量相当于造成伤害的280%。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "388809": {
+    "name": "无影步",
+    "icon": "ability_monk_risingsunkick",
+    "desc": "旭日东升踢的伤害提高70%，神鹤引项踢的伤害提高10%。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "388811": {
+    "name": "神鹤恩典",
+    "icon": "monk_ability_cherrymanatea",
+    "desc": "受到的所有治疗效果提高6%。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "388812": {
+    "name": "活力苏醒",
+    "icon": "ability_monk_vivify",
+    "desc": "织雾 施放旭日东升踢后，你的下一次 活血术 变为瞬发。 踏风 施放旭日东升踢后，你的下一次活血术变为瞬发。 此效果还会使活血术的能量消耗降低75%。 酒仙 施放醉酿投后，你的下一次活血术变为瞬发。 此效果还会使活血术的能量消耗降低75%。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": "瞬发"
+  },
+  "388813": {
+    "name": "迅疾豪胆",
+    "icon": "ability_monk_fortifyingale_new",
+    "desc": "壮胆酒的冷却时间缩短30秒。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "388847": {
+    "name": "云雾飞散",
+    "icon": "ability_monk_chiswirl",
+    "desc": "旭日东升踢和氤氲之雾会为40码范围内的一名盟友施加复苏之雾，持续6秒。",
+    "cost": "",
+    "range": "40 码范围",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "388874": {
+    "name": "强化清创生血",
+    "icon": "ability_rogue_imrovedrecuperate",
+    "desc": "清创生血能够移除所有的中毒和疾病效果。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "389579": {
+    "name": "普度众生",
+    "icon": "inv_weapon_hand_22",
+    "desc": "基于目标的当前生命值，你的治疗效果最多提高10%。生命值较低的目标会获得更多治疗。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "394123": {
+    "name": "致命之触",
+    "icon": "ability_monk_touchofdeath",
+    "desc": "轮回之触的冷却时间缩短90秒。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "399491": {
+    "name": "神龙之赐",
+    "icon": "inv12_ability_monk_sheilunsgift",
+    "desc": "汇聚附近的云雾，为友方目标 以及最多2名附近的盟友 恢复([416.96% of Spell Power])点生命值，每吸收一片云雾，额外恢复[([416.96% of Spell Power]) * 5 / 100]点生命值。 在战斗中每 8 秒产生一片云雾。",
     "cost": "3% 法力值",
-    "range": "30 码范围",
+    "range": "40 码范围",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "414131": {
+    "name": "玉珑的优雅",
+    "icon": "ability_monk_dragonkick",
+    "desc": "激战时真气的流动令你变得坚毅，在战斗中每3秒获得一层魔法吸收护盾，吸收相当于最大生命值1.0%的伤害，最多叠加至10%。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "422031": {
+    "name": "豪能酒",
+    "icon": "ui_profession_herbalism",
+    "desc": "法力茶的引导速度加快50%，恢复的法力值提高20%。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "432181": {
+    "name": "风之舞",
+    "icon": "ability_monk_dematerialize",
+    "desc": "你受到的物理伤害降低10%，且每4秒额外降低10%，直到受到一次物理攻击，最多可叠加至4层。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "438439": {
+    "name": "赤精之舞",
+    "icon": "ability_monk_cranekick_new",
+    "desc": "你的法术和技能有几率使你的下一个神鹤引项踢额外造成400%的伤害。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "442743": {
+    "name": "闭关修行",
+    "icon": "ability_monk_provoke",
+    "desc": "踏风 怒雷破和神鹤引项踢造成的伤害提高30%。 织雾 氤氲之雾、活血术和神龙之赐的治疗效果提高6%。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "443028": {
+    "name": "天神御身",
+    "icon": "inv_ability_conduitofthecelestialsmonk_celestialconduit",
+    "desc": "织雾 至尊天神赋予你力量，使你能够在4秒内为20码范围内最多5名受伤盟友恢复[([1100% of Spell Power]) * 5]点生命值，并对敌人造成[([165% of Attack Power]) * 5]点自然伤害，超过5个目标后效果降低。 引导期间，你可以移动，但施放其他治疗或伤害法术会取消该效果。 酒仙, 踏风 至尊天神赋予你力量，使你能够在4秒内对15码范围内的敌人造成[([165% of Attack Power]) * 5]点自然伤害，并为最多5名受伤的盟友恢复[([1100% of Spell Power]) * 5]点生命值，超过5个目标后效果降低。 引导期间，你可以移动，但施放其他治疗或伤害法术会取消该效果。",
+    "cost": "5% 法力值",
+    "range": "20码范围",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "443059": {
+    "name": "青玉庇护",
+    "icon": "ability_monk_jadeserpentbreath",
+    "desc": "当你激活天神御身时，立即恢复10%的最大生命值，同时在此期间受到的伤害降低15%。 天神御身结束后此效果还会额外保留8秒。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "443087": {
+    "name": "白虎之勇",
+    "icon": "ability_monk_summontigerstatue",
+    "desc": "织雾 猛虎掌、活血术和神龙之赐有一定几率使雪怒爪击附近的一名敌人，造成([337.5% of Attack Power])点物理伤害，并为附近的一位盟友恢复伤害量的100%的生命值。 使用青龙下凡或朱鹤下凡后，下次施放必定激活此效果。 踏风 猛虎掌有一定几率使雪怒爪击你的目标，造成([337.5% of Attack Power])点物理伤害，并为附近的一位盟友恢复伤害量的100%的生命值。 使用白虎下凡后，下次施放必定激活此效果。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "443110": {
+    "name": "玄牛之力",
+    "icon": "ability_monk_chargingoxwave",
+    "desc": "踏风 雪怒协助你之后，你的下一次幻灭踢会返还2层禅院教诲，并使砮皂践踏目标区域，对附近的敌人造成([200% of Attack Power])点伤害，目标超过5个时伤害降低。 织雾 雪怒协助你之后，你的下一次氤氲之雾的施放时间缩短50%，并使砮皂为附近5个盟友生成吸收0点伤害的护盾。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "443294": {
+    "name": "青龙之心",
+    "icon": "ability_monk_dragonkick",
+    "desc": "织雾 雷光聚神茶会召唤玉珑，让复苏之雾、旭日东升踢、作茧缚命和雷光聚神茶的冷却回复速度加快75%，持续8秒。 踏风 风领主之击和升龙霸会召唤玉珑，让怒雷破、风领主之击、旭日东升踢和升龙霸的冷却回复速度加快75%，持续8秒。 玉珑激活时怒雷破的引导时间缩短50%。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "443566": {
+    "name": "赤精迅捷",
+    "icon": "inv_shoulder_leather_raidmonkemerald_d_01",
+    "desc": "在天神御身期间，你的移动速度提高75%，在任意天神协助后的3秒内，你的移动速度提高15%。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "443571": {
+    "name": "心怀四方",
+    "icon": "inv_10_dungeonjewelry_explorer_trinket_1compass_color2",
+    "desc": "每8秒，你会在几种谐调间切换，使对应的次要属性提高2%。 朱鹤式 ： 急速 白虎式 ： 爆击 玄牛式 ： 全能 青龙式 ： 精通",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "443589": {
+    "name": "众神聚心",
+    "icon": "ability_monk_prideofthetiger",
+    "desc": "天神御身可以在持续期间再施放一次，召唤所有至尊天神协助你，产生200%的效果。 如果在天神御身效果结束时未施放，则会在结束时自动施放众神聚心。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "443625": {
+    "name": "玉珑之慧",
+    "icon": "inv_jewelcrafting_jadeserpent",
+    "desc": "旭日东升踢的伤害提高15%。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "446260": {
+    "name": "鹤形拳",
+    "icon": "ability_monk_mightyoxkick",
+    "desc": "旭日东升踢还会踢出迷雾之风，为40码内的2名盟友恢复([0.1% of Spell Power])点生命值。 神鹤引项踢和幻灭踢有几率踢出迷雾之风，为40码内的1名盟友恢复([0.1% of Spell Power])点生命值。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "449582": {
+    "name": "身轻如羽",
+    "icon": "ability_monk_ridethewind",
+    "desc": "滚地翻令你身轻如羽，使你可以在5秒内施展一次二段跳，向前冲刺一小段距离，滚地翻的冷却时间提高2秒。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "450391": {
+    "name": "真气波",
+    "icon": "ability_monk_chiwave",
+    "desc": "织雾 每过15秒，你的下一个旭日东升踢或 活血术 会释放一道真气能量波拂过你的盟友和敌人，造成([20% of Attack Power])点自然伤害或恢复([60% of Attack Power])点生命值。可弹射到25码范围内的目标身上，最多弹射7次。 踏风 每过15秒，你的下一个旭日东升踢或活血术会释放一道真气能量波拂过你的盟友和敌人，造成([20% of Attack Power])点自然伤害或恢复([60% of Attack Power])点生命值。可弹射到25码范围内的目标身上，最多弹射7次。 酒仙 每过15秒，你的下一个醉酿投或活血术会释放一道真气能量波拂过你的盟友和敌人，造成([20% of Attack Power])点自然伤害或恢复([60% of Attack Power])点生命值。可弹射到25码范围内的目标身上，最多弹射7次。",
+    "cost": "",
+    "range": "25码范围",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "450426": {
+    "name": "真气熟稔",
+    "icon": "ability_monk_chiswirl",
+    "desc": "造成的魔法伤害提高5%，造成的治疗效果提高5%。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "450427": {
+    "name": "以武立身",
+    "icon": "ability_monk_palmstrike",
+    "desc": "你造成的物理伤害提高5%，闪避提高2%。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "450432": {
+    "name": "正中死穴",
+    "icon": "ability_monk_deadlyreach",
+    "desc": "分筋错骨现在会移除目标的所有激怒效果。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "450569": {
+    "name": "真气流转",
+    "icon": "ability_monk_healthsphere",
+    "desc": "你会根据当前生命值获得一个额外效果。 生命值高于90%：移动速度提高5%。该效果可与其他相似效果叠加。 生命值在90%与35%之间：受到的伤害降低5%。 生命值低于35%：受到的治疗效果提高10%。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "450622": {
+    "name": "迅风行",
+    "icon": "ability_monk_standingkick",
+    "desc": "滚地翻每30秒可移除一个诱捕效果。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "458431": {
+    "name": "玉莲灌注",
+    "icon": "inv_misc_herb_chamlotus",
+    "desc": "具有复苏之雾的盟友受到你的治疗效果提高6%，并且复苏之雾的持续时间提高2秒。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "467293": {
+    "name": "碧火之训",
+    "icon": "inv_misc_book_07",
+    "desc": "谆谆古训会额外将320%的伤害转化为治疗。 你的耐力提高8%。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "1233904": {
+    "name": "受到掩护。",
+    "icon": "achievement_bg_defendxtowers_av",
+    "desc": "躲在掩体后方可以防止被强风推回。",
+    "cost": "",
+    "range": "100 码范围",
     "cooldown": "",
     "cast_time": "瞬发"
   },
-  "379391": {
-    "name": "急促祷告",
-    "icon": "spell_holy_pureofheart",
-    "desc": "神圣 圣洁鸣钟、神圣军备和神圣棱镜的冷却时间缩短15秒。 防护 圣洁鸣钟的冷却时间缩短15秒。 惩戒 圣洁鸣钟的冷却时间缩短30秒。",
+  "1235841": {
+    "name": "雪流",
+    "icon": "spell_hunter_icetrap",
+    "desc": "碎裂的震颤核心被击败后，会在原地生成一堆深雪。站在雪堆中的玩家移动速度降低40%，并免疫强制位移效果。",
     "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "384820": {
-    "name": "正义牺牲",
-    "icon": "spell_holy_sealofsacrifice",
-    "desc": "牺牲祝福的冷却时间缩短60秒。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "385414": {
-    "name": "残光",
-    "icon": "spell_holy_aspiration",
-    "desc": "在消耗20层神圣能量后，你的下一个荣耀圣令在附近的一名盟友身上产生30%的效果。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "385427": {
-    "name": "坚决",
-    "icon": "ability_paladin_speedoflight",
-    "desc": "加速提高2%，受到的范围攻击伤害降低2%。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "385450": {
-    "name": "力量圣印",
-    "icon": "spell_holy_sealofwrath",
-    "desc": "防护, 惩戒 精通提高2%，力量提高2%。 神圣 精通提高2%，智力提高2%。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "385515": {
-    "name": "神圣护佑",
-    "icon": "ability_paladin_touchedbylight",
-    "desc": "护甲和爆击几率提高4%。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "385633": {
-    "name": "坚定光环",
-    "icon": "spell_holy_devotionaura",
-    "desc": "学习专注光环、虔诚光环和十字军光环： 专注光环 : 40码范围内的小队及团队成员受到打断和沉默效果的持续时间缩短30%。 虔诚光环 : 使40码范围内的小队和团队成员受到自身虔诚的激励，受到的伤害降低3%。 十字军光环 : 40码范围内的所有小队及团队成员的坐骑速度提高20%。",
-    "cost": "",
-    "range": "40码范围",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "387781": {
-    "name": "统御圣光",
-    "icon": "ability_paladin_beaconoflight",
-    "desc": "圣光道标可额外传输5%的治疗量。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "387786": {
-    "name": "恻隐时刻",
-    "icon": "spell_holy_flashheal",
-    "desc": "你的圣光闪现会对受你圣光道标影响的目标造成50%的额外治疗。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "387805": {
-    "name": "神圣顿悟",
-    "icon": "spell_holy_healingaura",
-    "desc": "神圣震击和审判的爆击几率提高8%。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "387808": {
-    "name": "神圣启示",
-    "icon": "ability_paladin_infusionoflight",
-    "desc": "在圣光灌注的影响下，圣光闪现的治疗量提高20%，并且审判将返还0.5%的最大法力值。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "387879": {
-    "name": "破晓",
-    "icon": "spell_holy_rune",
-    "desc": "黎明之光的治疗效果提高5%。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "392907": {
-    "name": "太阳井之花",
-    "icon": "spell_lfieblood",
-    "desc": "圣光灌注的使用次数增加1次。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "392961": {
-    "name": "强能灌注",
-    "icon": "ability_priest_flashoflight",
-    "desc": "消耗圣光灌注会使神圣震击冷却时间缩短1.0秒。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "402964": {
-    "name": "圣化护甲",
-    "icon": "inv_chest_plate_raidpaladin_s_01",
-    "desc": "神圣, 惩戒 护甲提高10%，耐力提高5%，受到的范围攻击伤害降低3%。 防护 护甲提高5%，耐力提高8%，受到的范围攻击伤害降低3%。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "404357": {
-    "name": "向善祷言",
-    "icon": "ability_crown_of_the_heavens_icon",
-    "desc": "当你的生命值降低到25%以下时，立即对自己施放一次免费的荣耀圣令，效果为原来的60%。 每60秒最多触发一次。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "406468": {
-    "name": "光铸祝福",
-    "icon": "spell_holy_circleofrenewal",
-    "desc": "[ 谴责 / 正义盾击]会为你和附近最多2名盟友恢复([125% of Attack Power])点生命值。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "414073": {
-    "name": "圣光决断",
-    "icon": "paladin_holy",
-    "desc": "神圣震击现有2次充能，对敌人施放时返还50%的法力值消耗。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "414113": {
-    "name": "公正审判",
-    "icon": "ability_priest_holybolts01",
-    "desc": "审判有100%的几率在目标位置施放奉献。 该效果无视奉献的数量限制。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "414443": {
-    "name": "闪耀正义",
-    "icon": "spell_holy_holynova",
-    "desc": "[ 谴责 / 正义盾击]对击中的第一个目标造成([256% of Spell Power])点伤害。 如习得神圣意志， [ 谴责 / 正义盾击]有35%的几率激活神圣意志。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "415091": {
-    "name": "正义盾击",
-    "icon": "ability_paladin_shieldofvengeance",
-    "desc": "用盾牌猛击你前方的敌人，造成([198% of Attack Power])点神圣伤害，并使神圣震击的冷却时间缩短2.0秒，恢复 4500 点法力值。",
-    "cost": "",
-    "range": "",
+    "range": "100 码范围",
     "cooldown": "",
     "cast_time": "瞬发"
   },
-  "415364": {
-    "name": "回收复用",
-    "icon": "ability_paladin_longarmofthelaw",
-    "desc": "根据目标损失的生命值，神圣震击最多返还消耗法力值的10%，并额外造成最多50%的治疗或伤害。",
+  "1239001": {
+    "name": "采集浆果",
+    "icon": "inv_misc_herb_silkweed",
+    "desc": "正在采集浆果。",
     "cost": "",
     "range": "",
     "cooldown": "",
     "cast_time": ""
   },
-  "417855": {
-    "name": "心敬则畏",
-    "icon": "ability_paladin_blindinglight2",
-    "desc": "神圣震击、圣光术与圣光闪现的爆击治疗效果提高20%。",
+  "1243287": {
+    "name": "散魔功",
+    "icon": "spell_monk_diffusemagic",
+    "desc": "激活壮胆酒会尽可能将你身上当前激活的所有有害魔法效果返还给施法者。",
     "cost": "",
     "range": "",
     "cooldown": "",
     "cast_time": ""
   },
-  "431377": {
-    "name": "晨光",
-    "icon": "inv_ability_heraldofthesunpaladin_dawnlight",
-    "desc": "惩戒 施放灰烬觉醒后，你的下2个消耗神圣能量的技能会对目标施加晨光，在8秒内造成([255% of Spell Power])点光辉伤害或恢复([538.2% of Spell Power])点生命值。 晨光的伤害和治疗效果的4%会辐射给周围的盟友或敌人，目标超过5个时效果降低。 神圣 施放神圣棱镜或圣洁鸣钟后，你的下2个消耗神圣能量的技能会对目标施加晨光，在8秒内造成([255% of Spell Power])点光辉伤害或恢复([538.2% of Spell Power])点生命值。 晨光的伤害和治疗效果的8%会辐射给周围的盟友或敌人，目标超过5个时效果降低。 晨光的治疗效果不会转移给圣光道标。",
+  "1250701": {
+    "name": "原始苏醒",
+    "icon": "spell_animaardenweald_beam",
+    "desc": "开始召唤仪式，唤出寒冬哨兵。",
     "cost": "",
-    "range": "",
+    "range": "15 码范围",
     "cooldown": "",
     "cast_time": ""
   },
-  "431402": {
-    "name": "明灿",
-    "icon": "inv_qirajidol_sun",
-    "desc": "惩戒 愤怒之锤和神圣风暴的爆击几率提高10%。 神圣 神圣震击和黎明之光的爆击几率提高5%。",
+  "1252825": {
+    "name": "强风",
+    "icon": "spell_frost_icestorm",
+    "desc": "凛冽寒风侵蚀你的身体，将你向后推，并且每1秒造成3点冰霜伤害。",
     "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "431404": {
-    "name": "灼阳恩典",
-    "icon": "ability_malkorok_blightofyshaarj_yellow",
-    "desc": "惩戒 急速提高2%。 神圣 急速提高5%。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "431406": {
-    "name": "曙光意志",
-    "icon": "spell_holy_divineprovidence",
-    "desc": "生命值高于80%时移动速度提高5%。 生命值降至35%时，你的移动速度提高40%，持续5秒。该效果每1分钟只能触发一次。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "431413": {
-    "name": "日灼",
-    "icon": "spell_priest_burningwill",
-    "desc": "惩戒 愤怒之锤和神圣风暴的爆击使目标燃烧，在4秒内额外造成([48% of Spell Power])点光辉伤害。 神圣 神圣震击和黎明之光的爆击在4秒内为目标额外恢复([54% of Spell Power])点生命值。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "431425": {
-    "name": "曜日化身",
-    "icon": "ability_paladin_holyavenger",
-    "desc": "神圣 你与30码范围内的晨光产生联结，对穿越光束的敌人造成([21.6% of Spell Power])点光辉伤害，为穿越光束的盟友恢复([37.26% of Spell Power])点生命值，目标数量超过5个时效果降低。 惩戒 你与30码范围内的晨光产生联结，对穿越光束的敌人造成([21.6% of Spell Power])点光辉伤害，为穿越光束的盟友恢复([37.26% of Spell Power])点生命值，目标数量超过8个时效果降低。",
-    "cost": "",
-    "range": "30码范围",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "431474": {
-    "name": "旭日再升",
-    "icon": "ability_priest_halo",
-    "desc": "惩戒 神圣风暴和愤怒之锤有15%的几率再次施放，产生30%的效果。 神圣 黎明之光和神圣震击有15%的几率再次施放，产生30%的效果。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "431480": {
-    "name": "辉耀日光",
-    "icon": "spell_priest_power-word",
-    "desc": "你的神圣能量消耗技能造成的伤害和治疗效果提高3%。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "439760": {
-    "name": "极光",
-    "icon": "spell_holy_rune",
-    "desc": "惩戒 施放灰烬觉醒后获得神圣意志。 神圣意志 你的下一个消耗神圣能量的技能变为免费且造成的伤害和治疗提高10%。 神圣 施放神圣棱镜或圣洁鸣钟后获得神圣意志。 神圣意志 你的下一个消耗神圣能量的技能变为免费且造成的伤害和治疗提高15%。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "445200": {
-    "name": "安瑟的祝福",
-    "icon": "inv_ability_holyfire_orb",
-    "desc": "惩戒 你的持续性伤害和治疗效果有几率使你的下一个审判的伤害提高50%。 神圣 神圣震击的治疗效果和伤害提高15%。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "447446": {
-    "name": "樱花之路",
-    "icon": "inv_misc_herb_talandrasrose",
-    "desc": "踏上缀满樱花的小路。",
-    "cost": "",
-    "range": "",
+    "range": "400 码范围",
     "cooldown": "",
     "cast_time": "瞬发"
-  },
-  "461243": {
-    "name": "圣光之佑",
-    "icon": "spell_holy_absolution",
-    "desc": "受到圣光道标影响的盟友受到的伤害降低5%。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "461246": {
-    "name": "辉光黎明",
-    "icon": "ability_paladin_holyavenger",
-    "desc": "神圣震击有12%的几率在施放时返还一层充能，并且其治疗效果提高10%。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "461278": {
-    "name": "解救",
-    "icon": "spell_holy_spiritualguidence",
-    "desc": "荣耀圣令和黎明之光根据目标当前的生命值获得最多30%的额外爆击几率。生命值越低的目标越有可能被爆击。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "469434": {
-    "name": "无私治愈",
-    "icon": "ability_paladin_gaurdedbythelight",
-    "desc": "神圣 圣光闪现和圣光术对你的盟友的效果提高30%，并有40%的治疗量也会治疗你。 防护, 惩戒 圣光闪现对你的盟友的效果提高30%，并有40%的治疗量也会治疗你。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "469439": {
-    "name": "奋发卫士",
-    "icon": "spell_holy_divineprotection",
-    "desc": "神圣, 惩戒 圣佑术在持续期间内使你受到的治疗效果提高15%。 防护 炽热防御者在持续期间内使你受到的治疗效果提高15%。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "469780": {
-    "name": "带头冲锋",
-    "icon": "inv_helm_plate_raidpaladin_r_01mythic",
-    "desc": "神圣马驹会使4个附近盟友的主要移动技能冷却时间减少3.0秒。 你的移动速度提高3%。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "1234768": {
-    "name": "银月城生命药水",
-    "icon": "inv_potion_49",
-    "desc": "恢复 119971 点生命值。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": "瞬发"
-  },
-  "1236616": {
-    "name": "圣光潜力",
-    "icon": "inv_12_profession_alchemy_lightpotion_yellow",
-    "desc": "饮用后使你的主要属性提高 346 点，持续30秒。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": "瞬发"
-  },
-  "1241288": {
-    "name": "愤怒之锤",
-    "icon": "inv12_ability_paladin_hammerofwrath",
-    "desc": "神圣, 防护 在复仇之怒期间，审判被强化为愤怒之锤。 愤怒之锤 扔出一把神圣之锤，对一名敌人造成[([123.75% of Attack Power]) * 1 ]点 [ 圣光之剑 : 神圣打击 / 神圣]伤害。 产生1点神圣能量。 惩戒 在复仇之怒期间，审判被强化为愤怒之锤。 愤怒之锤 掷出一把神圣之锤击打一名敌人，造成[([215.807% of Attack Power]) * 1 ]点神圣伤害。 产生1点神圣能量。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "1241413": {
-    "name": "愤怒之锤",
-    "icon": "inv12_ability_paladin_hammerofwrath",
-    "desc": "扔出一把神圣之锤，对一名敌人造成[([123.75% of Attack Power]) * 1 ]点 [ 圣光之剑 : 神圣打击 / 神圣]伤害。 产生1点神圣能量。",
-    "cost": "1.2% 法力值",
-    "range": "30 码范围",
-    "cooldown": "",
-    "cast_time": "瞬发"
-  },
-  "1241945": {
-    "name": "黄昏祝福",
-    "icon": "achievement_zone_newshadowmoonvalley",
-    "desc": "神圣, 惩戒 受到的伤害最多降低10%，此效果随生命值降低而提高。 防护 受到的伤害最多降低20%，此效果随生命值降低而提高。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "1241958": {
-    "name": "愤怒复仇",
-    "icon": "spell_paladin_hammerofwrath",
-    "desc": "愤怒之锤的伤害会随目标的生命值而提高，至多造成50%的额外伤害。目标生命值越低，受到的伤害越高。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "1242008": {
-    "name": "神性之手",
-    "icon": "spell_holy_vindication",
-    "desc": "激活复仇之怒，呼唤圣光强化你，使你下 [ 复仇十字军 : 一个圣光术 / 2个圣光术]变为瞬发，且法力消耗降低50%。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": "瞬发"
-  },
-  "1244878": {
-    "name": "救世道标",
-    "icon": "inv12_apextalent_paladin_beaconofthesavior",
-    "desc": "在战斗中，对30码内生命值最低的盟友施加救世道标，使你对他人的直接治疗也会治疗该盟友，治疗量为直接治疗量的10%。 如果救世道标的治疗使目标生命值超过最大值，或者有盟友的生命值降至50%以下，则救世道标会转移至30码内生命值最低的盟友身上。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "1245367": {
-    "name": "救世道标",
-    "icon": "inv12_apextalent_paladin_beaconofthesavior",
-    "desc": "救世道标额外转移10%的治疗量，并且带有救世道标的盟友从你那里获得的治疗量提高10%。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "1245368": {
-    "name": "救世道标",
-    "icon": "inv12_apextalent_paladin_beaconofthesavior",
-    "desc": "每8秒或当救世道标转移至一个新的受伤目标时，他们会获得一个吸收盾，可吸收接下来的0点伤害，并在15秒内使受到的伤害降低10%。 救世道标现在每5秒还会追踪你的圣光术或圣光闪现法术的目标。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
   },
   "1258283": {
     "name": "光盲圣怒的道标",
@@ -773,100 +719,163 @@
     "cooldown": "",
     "cast_time": "瞬发"
   },
-  "1263782": {
-    "name": "向光而行",
-    "icon": "ability_paladin_sheathoflight",
-    "desc": "神圣 在复仇之怒期间，圣光灌注的触发频率提高100%。 惩戒 施放复仇之怒后，你有100%的几率获得安瑟的祝福，并产生2点神圣能量。 复仇之怒期间，愤怒之锤会以100%的效果施放公正之剑。",
+  "1260511": {
+    "name": "灵泉",
+    "icon": "inv12_apextalent_monk_spiritfont",
+    "desc": "旭日东升踢和活血术有几率激活灵泉，使你的下一次氤氲之雾的施法时间缩短50%，并为你向最多5名盟友引导抚慰之雾，效果为20%，持续8秒。 如果灵泉的抚慰之雾治疗了一个生命值全满的目标，则会跳跃到另一个受伤的盟友身上，或者将其治疗量分摊到剩余的抚慰之雾中。",
     "cost": "",
     "range": "",
     "cooldown": "",
     "cast_time": ""
   },
-  "1263787": {
-    "name": "无尽辉光",
-    "icon": "spell_paladin_inquisition",
-    "desc": "惩戒 受到神圣风暴或圣殿骑士的裁决打击时，晨光的持续时间延长0.3秒。 2个晨光被神圣风暴击中时，其持续时间会延长0.5秒。 神圣 晨光治疗生命值全满的盟友时，其持续时间延长0.5秒。",
+  "1260677": {
+    "name": "灵泉",
+    "icon": "inv12_apextalent_monk_spiritfont",
+    "desc": "旭日东升踢的伤害提高10%，氤氲之雾的治疗效果提高10%。灵泉激活时，这些加成提高50%。",
     "cost": "",
     "range": "",
     "cooldown": "",
     "cast_time": ""
   },
-  "1263920": {
-    "name": "诞于日光",
-    "icon": "spell_paladin_lightofdawn",
-    "desc": "在复仇之怒期间，晨光的爆击几率提高15%。",
+  "1260680": {
+    "name": "灵泉",
+    "icon": "inv12_apextalent_monk_spiritfont",
+    "desc": "雷光聚神茶会激活灵泉，并且灵泉会以30%的效果对目标盟友施加真气之茧。",
     "cost": "",
     "range": "",
     "cooldown": "",
     "cast_time": ""
   },
-  "1264426": {
-    "name": "虚触",
-    "icon": "inv_10_enchanting_crystal_color2",
-    "desc": "[Primary Stat]提高 25 点，持续1小时。强化符文。",
+  "1261781": {
+    "name": "防御姿态",
+    "icon": "ability_warrior_safeguard",
+    "desc": "受到来自 压制强攻 的伤害降低80%。",
+    "cost": "",
+    "range": "300 码范围",
+    "cooldown": "",
+    "cast_time": "瞬发"
+  },
+  "1262667": {
+    "name": "玉珑化身",
+    "icon": "inv_celestialserpentmount_jade",
+    "desc": "织雾 活血术和神龙之赐有几率以100%的效果触发青龙之心，持续4秒。 踏风 青龙之心还会在你施放乾元之巅后，以100%的效果额外触发4秒。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "1262672": {
+    "name": "流转之智",
+    "icon": "ability_monk_flyingdragonkick",
+    "desc": "青龙之心激活时，你的急速提高10%。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "1262756": {
+    "name": "远古奔踏",
+    "icon": "monk_ability_summonoxstatue",
+    "desc": "玄牛之力的效果对你的主要目标提高400%。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "1266193": {
+    "name": "雪流",
+    "icon": "spell_hunter_icetrap",
+    "desc": "冰川亡魂被击败后，会在原地生成一堆深雪。站在雪堆中的玩家移动速度降低40%，并免疫强制位移效果。",
+    "cost": "",
+    "range": "100 码范围",
+    "cooldown": "",
+    "cast_time": "瞬发"
+  },
+  "1266811": {
+    "name": "召雾者",
+    "icon": "ability_monk_serenity",
+    "desc": "活血术和神龙之赐会在你自己身上触发一次迷雾之风。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "1268807": {
+    "name": "皇帝琼浆",
+    "icon": "inv_drink_25_honeytea",
+    "desc": "雷光聚神茶现在会进一步强化氤氲之雾和旭日东升踢。 氤氲之雾 ： 开始对你的目标引导抚慰之雾。 旭日东升踢 ： 在你面前释放一次碧火踏，以20的效果将伤害转化为谆谆古训效果。 碧火踏 ： 你施放一次碧火踏，对你前方的5名敌人造成([100% of Attack Power])点伤害。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "1268817": {
+    "name": "凝雾汇涌",
+    "icon": "inv_ability_monk_renewingmists_active",
+    "desc": "复苏之雾的治疗效果会根据其覆盖你自身和盟友的比例，最多提高300%。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "1273154": {
+    "name": "流星轨迹",
+    "icon": "ability_monk_chiswirl",
+    "desc": "天神御身仅击中一个目标时，治疗和伤害提高100%。 每多击中一个目标，该加成降低20%。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "1277302": {
+    "name": "晨风拂露",
+    "icon": "expansionicon_mistsofpandaria",
+    "desc": "旭日东升踢的伤害会随你的精通等级提高，并且雷光聚神茶会重置其冷却时间。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "1277444": {
+    "name": "真气结界",
+    "icon": "inv_belt__inv_leather_raidmonkmythic_s_01",
+    "desc": "你受到的所有魔法伤害的3%将转化为治疗。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "1291894": {
+    "name": "盘魂者仪式容器",
+    "icon": "inv_121_trinket_raid_ulatek_ritualvessel",
+    "desc": "在2秒内召唤5个盘魂者密教徒精魂并献祭其精华，每个精魂为你的一名盟友施加一道屏障，使受到的伤害降低50%，持续20秒或直到防止了( 76297 * 1 )点伤害。 盟友死亡会使此冷却时间缩短30秒，并立即召唤一个盘魂教徒精魂进行献祭。",
+    "cost": "",
+    "range": "",
+    "cooldown": "",
+    "cast_time": ""
+  },
+  "1295132": {
+    "name": "液态光泽",
+    "icon": "inv_121_professions_alchemy_potion_amani_blue",
+    "desc": "饮用后每6秒施加 璀璨微光 ，持续30秒，在药水生效期间使你的全能提高 209 点。 璀璨微光 最多可叠加5层。",
     "cost": "",
     "range": "",
     "cooldown": "",
     "cast_time": "瞬发"
   },
-  "1265549": {
-    "name": "皈依圣光",
-    "icon": "paladin_holy",
-    "desc": "击杀可以提供经验值或荣誉的敌人会使你爆发出神圣能量，治疗最多5名附近的盟友和你自己，总共恢复([625% of Attack Power])点生命值，由所有人平均分摊。",
+  "1295247": {
+    "name": "浓缩银月城生命药水",
+    "icon": "inv_potion_49",
+    "desc": "恢复 209412 点生命值。",
     "cost": "",
     "range": "",
     "cooldown": "",
-    "cast_time": ""
+    "cast_time": "瞬发"
   },
-  "1270916": {
-    "name": "神恩术",
-    "icon": "spell_holy_heal",
-    "desc": "圣光术的法力值消耗降低10%，施法时间缩短15%。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "1271016": {
-    "name": "寻求超脱",
-    "icon": "spell_holy_blessedresillience",
-    "desc": "复仇之怒未激活时，你获得5%精通。 复仇之怒激活时，你获得30%移动速度。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "1271077": {
-    "name": "神圣过载",
-    "icon": "spell_holy_surgeoflight",
-    "desc": "圣光术的治疗效果提高30%，但法力值消耗增加20%。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "1271221": {
-    "name": "永恒圣光",
-    "icon": "spell_holy_holybolt",
-    "desc": "黎明之光从精通：光明使者获得的增益提高20%。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "1277443": {
-    "name": "圣光神兵",
-    "icon": "inv12_ability_paladin_sentinel",
-    "desc": "有护盾时，你有15%的几率格挡来袭法术，使其伤害降低20%。 未有护盾时，你有15%的几率招架来袭近战攻击，使其伤害降低20%。",
-    "cost": "",
-    "range": "",
-    "cooldown": "",
-    "cast_time": ""
-  },
-  "1277651": {
-    "name": "璀璨旭日",
-    "icon": "spell_priest_divinestar_holy",
-    "desc": "基于携带你的圣光道标盟友的平均生命值百分比，你的治疗量最多提高10%。",
+  "1299572": {
+    "name": "沥血注气",
+    "icon": "ability_monk_soothingmists",
+    "desc": "抚慰之雾的治疗效果提高300%，但法力值消耗提高200%。",
     "cost": "",
     "range": "",
     "cooldown": "",
