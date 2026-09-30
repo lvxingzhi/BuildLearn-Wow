@@ -1,0 +1,210 @@
+[
+  {
+    "id": 415091,
+    "name": "正义盾击",
+    "count": 340,
+    "pct": 22.61,
+    "cpm": 11.0,
+    "uptime_pct": null
+  },
+  {
+    "id": 19750,
+    "name": "圣光闪现",
+    "count": 301,
+    "pct": 20.01,
+    "cpm": 9.7,
+    "uptime_pct": null
+  },
+  {
+    "id": 85673,
+    "name": "荣耀圣令",
+    "count": 177,
+    "pct": 11.77,
+    "cpm": 5.7,
+    "uptime_pct": null
+  },
+  {
+    "id": 275773,
+    "name": "审判",
+    "count": 148,
+    "pct": 9.84,
+    "cpm": 4.8,
+    "uptime_pct": null
+  },
+  {
+    "id": 20473,
+    "name": "神圣震击",
+    "count": 144,
+    "pct": 9.57,
+    "cpm": 4.7,
+    "uptime_pct": null
+  },
+  {
+    "id": 82326,
+    "name": "圣光术",
+    "count": 126,
+    "pct": 8.38,
+    "cpm": 4.1,
+    "uptime_pct": null
+  },
+  {
+    "id": 1241413,
+    "name": "愤怒之锤",
+    "count": 48,
+    "pct": 3.19,
+    "cpm": 1.6,
+    "uptime_pct": null
+  },
+  {
+    "id": 432459,
+    "name": "神圣壁垒",
+    "count": 34,
+    "pct": 2.26,
+    "cpm": 1.1,
+    "uptime_pct": null
+  },
+  {
+    "id": 432472,
+    "name": "圣洁武器",
+    "count": 33,
+    "pct": 2.19,
+    "cpm": 1.1,
+    "uptime_pct": null
+  },
+  {
+    "id": 190784,
+    "name": "神圣马驹",
+    "count": 30,
+    "pct": 1.99,
+    "cpm": 1.0,
+    "uptime_pct": null
+  },
+  {
+    "id": 4987,
+    "name": "清洁术",
+    "count": 27,
+    "pct": 1.8,
+    "cpm": 0.9,
+    "uptime_pct": null
+  },
+  {
+    "id": 31884,
+    "name": "复仇之怒",
+    "count": 20,
+    "pct": 1.33,
+    "cpm": 0.6,
+    "uptime_pct": 19.4
+  },
+  {
+    "id": 498,
+    "name": "圣佑术",
+    "count": 19,
+    "pct": 1.26,
+    "cpm": 0.6,
+    "uptime_pct": 8.19
+  },
+  {
+    "id": 1291894,
+    "name": "盘魂者仪式容器",
+    "count": 10,
+    "pct": 0.66,
+    "cpm": 0.3,
+    "uptime_pct": 11.99
+  },
+  {
+    "id": 53563,
+    "name": "圣光道标",
+    "count": 7,
+    "pct": 0.47,
+    "cpm": 0.2,
+    "uptime_pct": 99.71
+  },
+  {
+    "id": 1044,
+    "name": "自由祝福",
+    "count": 6,
+    "pct": 0.4,
+    "cpm": 0.2,
+    "uptime_pct": 2.59
+  },
+  {
+    "id": 6940,
+    "name": "牺牲祝福",
+    "count": 6,
+    "pct": 0.4,
+    "cpm": 0.2,
+    "uptime_pct": 3.88
+  },
+  {
+    "id": 633,
+    "name": "圣疗术",
+    "count": 6,
+    "pct": 0.4,
+    "cpm": 0.2,
+    "uptime_pct": null
+  },
+  {
+    "id": 642,
+    "name": "圣盾术",
+    "count": 5,
+    "pct": 0.33,
+    "cpm": 0.2,
+    "uptime_pct": 2.15
+  },
+  {
+    "id": 853,
+    "name": "制裁之锤",
+    "count": 5,
+    "pct": 0.33,
+    "cpm": 0.2,
+    "uptime_pct": 1.62
+  },
+  {
+    "id": 31821,
+    "name": "光环掌握",
+    "count": 4,
+    "pct": 0.27,
+    "cpm": 0.1,
+    "uptime_pct": 1.72
+  },
+  {
+    "id": 115750,
+    "name": "盲目之光",
+    "count": 2,
+    "pct": 0.13,
+    "cpm": 0.1,
+    "uptime_pct": null
+  },
+  {
+    "id": 391054,
+    "name": "代祷",
+    "count": 2,
+    "pct": 0.13,
+    "cpm": 0.1,
+    "uptime_pct": null
+  },
+  {
+    "id": 1236616,
+    "name": "圣光潜力",
+    "count": 2,
+    "pct": 0.13,
+    "cpm": 0.1,
+    "uptime_pct": 3.23
+  },
+  {
+    "id": 1295247,
+    "name": "浓缩银月城生命药水",
+    "count": 1,
+    "pct": 0.07,
+    "cpm": 0.0,
+    "uptime_pct": null
+  },
+  {
+    "id": 1022,
+    "name": "保护祝福",
+    "count": 1,
+    "pct": 0.07,
+    "cpm": 0.0,
+    "uptime_pct": 0.54
+  }
+]

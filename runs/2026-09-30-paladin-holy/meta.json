@@ -1,0 +1,14 @@
+{
+  "generatedAt": "2026-09-30 10:44:44",
+  "player": {
+    "className": "Paladin",
+    "specName": "Holy",
+    "heroSpecId": 49
+  },
+  "heroName": "铸光者",
+  "talentCode": "CEEAAAAAAAAAAAAAAAAAAAAAAAAAgZBAmBAAWGwMzyMzsMjZMsY2MziZaihxMzMGzWGAGA2AbsYmBAAAmZWWWsMzwGbjZwmHAmxAAMzAgxY0A",
+  "spellCount": 26,
+  "talentCount": 80,
+  "spellsFrom": "data/clean/spells.json",
+  "talentsFrom": "data/clean/talents.json"
+}
