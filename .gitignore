@@ -1,0 +1,16 @@
+# 输入: 从 WCL 手动保存的页面 (体积大)
+data/raw/*.html
+
+# 中间产物 / 缓存 / 归档 (都可重新生成)
+data/clean/*
+!data/clean/.gitkeep
+cache/*
+!cache/.gitkeep
+runs/*
+!runs/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+
+.DS_Store
