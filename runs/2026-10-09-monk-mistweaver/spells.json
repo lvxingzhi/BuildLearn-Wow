@@ -1,0 +1,130 @@
+[
+  {
+    "id": 116670,
+    "name": "活血术",
+    "count": 130,
+    "pct": 26.58,
+    "cpm": 17.7,
+    "uptime_pct": null
+  },
+  {
+    "id": 467307,
+    "name": "疾风呼啸踢",
+    "count": 121,
+    "pct": 24.74,
+    "cpm": 16.5,
+    "uptime_pct": null
+  },
+  {
+    "id": 115151,
+    "name": "复苏之雾",
+    "count": 97,
+    "pct": 19.84,
+    "cpm": 13.2,
+    "uptime_pct": null
+  },
+  {
+    "id": 124682,
+    "name": "氤氲之雾",
+    "count": 53,
+    "pct": 10.84,
+    "cpm": 7.2,
+    "uptime_pct": 99.07
+  },
+  {
+    "id": 116680,
+    "name": "雷光聚神茶",
+    "count": 23,
+    "pct": 4.7,
+    "cpm": 3.1,
+    "uptime_pct": 10.11
+  },
+  {
+    "id": 115294,
+    "name": "法力茶",
+    "count": 20,
+    "pct": 4.09,
+    "cpm": 2.7,
+    "uptime_pct": 5.14
+  },
+  {
+    "id": 109132,
+    "name": "滚地翻",
+    "count": 15,
+    "pct": 3.07,
+    "cpm": 2.0,
+    "uptime_pct": null
+  },
+  {
+    "id": 116849,
+    "name": "作茧缚命",
+    "count": 6,
+    "pct": 1.23,
+    "cpm": 0.8,
+    "uptime_pct": 8.68
+  },
+  {
+    "id": 443028,
+    "name": "天神御身",
+    "count": 5,
+    "pct": 1.02,
+    "cpm": 0.7,
+    "uptime_pct": 2.6
+  },
+  {
+    "id": 443591,
+    "name": "众神聚心",
+    "count": 5,
+    "pct": 1.02,
+    "cpm": 0.7,
+    "uptime_pct": null
+  },
+  {
+    "id": 322118,
+    "name": "青龙下凡",
+    "count": 4,
+    "pct": 0.82,
+    "cpm": 0.5,
+    "uptime_pct": 12.76
+  },
+  {
+    "id": 115310,
+    "name": "还魂术",
+    "count": 3,
+    "pct": 0.61,
+    "cpm": 0.4,
+    "uptime_pct": null
+  },
+  {
+    "id": 1291894,
+    "name": "盘魂者仪式容器",
+    "count": 3,
+    "pct": 0.61,
+    "cpm": 0.4,
+    "uptime_pct": 22.69
+  },
+  {
+    "id": 1236616,
+    "name": "圣光潜力",
+    "count": 2,
+    "pct": 0.41,
+    "cpm": 0.3,
+    "uptime_pct": 13.63
+  },
+  {
+    "id": 6262,
+    "name": "治疗石",
+    "count": 1,
+    "pct": 0.2,
+    "cpm": 0.1,
+    "uptime_pct": null
+  },
+  {
+    "id": 116844,
+    "name": "平心之环",
+    "count": 1,
+    "pct": 0.2,
+    "cpm": 0.1,
+    "uptime_pct": null
+  }
+]

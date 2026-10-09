@@ -1,0 +1,14 @@
+{
+  "generatedAt": "2026-10-09 11:34:28",
+  "player": {
+    "className": "Monk",
+    "specName": "Mistweaver",
+    "heroSpecId": 47
+  },
+  "heroName": "天神御师",
+  "talentCode": "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MwmFzYmllZshZmhZWWWmZswMaGzAGMYMLzMzMMbDGsYCAAAAAAWsMzysNzAAADYAmBMGGLyYGA",
+  "spellCount": 16,
+  "talentCount": 78,
+  "spellsFrom": "data/clean/spells.json",
+  "talentsFrom": "data/clean/talents.json"
+}
