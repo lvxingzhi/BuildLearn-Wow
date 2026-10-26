@@ -1,0 +1,122 @@
+[
+  {
+    "id": 116670,
+    "name": "Vivify",
+    "count": 98,
+    "pct": 27.45,
+    "cpm": 19.3,
+    "uptime_pct": null
+  },
+  {
+    "id": 467307,
+    "name": "Rushing Wind Kick",
+    "count": 76,
+    "pct": 21.29,
+    "cpm": 14.9,
+    "uptime_pct": null
+  },
+  {
+    "id": 115151,
+    "name": "Renewing Mist",
+    "count": 54,
+    "pct": 15.13,
+    "cpm": 10.6,
+    "uptime_pct": null
+  },
+  {
+    "id": 124682,
+    "name": "Enveloping Mist",
+    "count": 45,
+    "pct": 12.61,
+    "cpm": 8.8,
+    "uptime_pct": 99.75
+  },
+  {
+    "id": 115175,
+    "name": "Soothing Mist",
+    "count": 26,
+    "pct": 7.28,
+    "cpm": 5.1,
+    "uptime_pct": 24.09
+  },
+  {
+    "id": 115294,
+    "name": "Mana Tea",
+    "count": 16,
+    "pct": 4.48,
+    "cpm": 3.1,
+    "uptime_pct": 5.92
+  },
+  {
+    "id": 116680,
+    "name": "Thunder Focus Tea",
+    "count": 14,
+    "pct": 3.92,
+    "cpm": 2.8,
+    "uptime_pct": 6.18
+  },
+  {
+    "id": 116849,
+    "name": "Life Cocoon",
+    "count": 6,
+    "pct": 1.68,
+    "cpm": 1.2,
+    "uptime_pct": 15.18
+  },
+  {
+    "id": 115450,
+    "name": "Detox",
+    "count": 5,
+    "pct": 1.4,
+    "cpm": 1.0,
+    "uptime_pct": null
+  },
+  {
+    "id": 109132,
+    "name": "Roll",
+    "count": 3,
+    "pct": 0.84,
+    "cpm": 0.6,
+    "uptime_pct": null
+  },
+  {
+    "id": 115203,
+    "name": "Fortifying Brew",
+    "count": 3,
+    "pct": 0.84,
+    "cpm": 0.6,
+    "uptime_pct": null
+  },
+  {
+    "id": 1291894,
+    "name": "Soulcoiler Ritual Vessel",
+    "count": 3,
+    "pct": 0.84,
+    "cpm": 0.6,
+    "uptime_pct": 25.82
+  },
+  {
+    "id": 322118,
+    "name": "Invoke Yu'lon, the Jade Serpent",
+    "count": 3,
+    "pct": 0.84,
+    "cpm": 0.6,
+    "uptime_pct": 24.57
+  },
+  {
+    "id": 443028,
+    "name": "Celestial Conduit",
+    "count": 3,
+    "pct": 0.84,
+    "cpm": 0.6,
+    "uptime_pct": 2.31
+  },
+  {
+    "id": 388615,
+    "name": "Restoral",
+    "count": 2,
+    "pct": 0.56,
+    "cpm": 0.4,
+    "uptime_pct": null
+  }
+]
